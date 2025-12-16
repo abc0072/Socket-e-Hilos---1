@@ -1,4 +1,4 @@
-# Agustín Borreguero Castro, Jose Antonio Jiménez Bernaza
+# Agustín Borreguero Castro, José Antonio Jiménez Bernaza
 ## ¿Qué ocurre con el Cliente 2? 
 Cuando arrancamos el Cliente 2 no puede conectarse ni le deja mandar ningún mensaje porque el servidor está durmiendo debido al Thread.sleep(15000).
 ## ¿Por qué no puede ni siquiera enviar su mensaje? 
